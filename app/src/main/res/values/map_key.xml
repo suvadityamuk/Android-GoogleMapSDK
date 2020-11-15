@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name = "map_key" translatable="false">
-        AIzaSyCwArQ3CZ7qN2cyEW24dHL46HqrjdGNJ2o
+        Your Google Private API Key Here
     </string>
 </resources>
